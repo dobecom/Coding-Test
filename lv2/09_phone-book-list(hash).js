@@ -36,3 +36,15 @@ function solution(phone_book) {
 }
 
 solution(['119', '97674223', '1195524421']);
+
+/* startsWith 
+function solution(phoneBook) {
+  let answer = true;
+  answer = !phoneBook.sort().some((t, i) => {
+    if (i === phoneBook.length - 1) return false;
+
+    return phoneBook[i + 1].startsWith(phoneBook[i]);
+  });
+  return answer;
+}
+*/
