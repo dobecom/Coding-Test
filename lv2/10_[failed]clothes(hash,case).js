@@ -11,18 +11,12 @@ function solution(clothes) {
       obj[e[1]] = [e[0]];
     }
   });
-
-  let multiply = 1;
-  const list = Object.keys(obj);
-  if (list.length > 1) {
-    list.forEach((e) => {
-      const itemList = obj[e];
-      multiply = multiply * itemList.length;
-    });
+  answer = 1;
+  for (let key in obj) {
+    answer *= obj[key].length + 1;
   }
-  answer = clothes.length + (multiply > 1 ? multiply : 0);
-  console.log(answer);
-  return answer;
+  console.log(answer - 1);
+  return answer - 1;
 }
 
 solution([
