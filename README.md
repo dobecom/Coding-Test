@@ -33,3 +33,11 @@
 
 4. **Reconsidering the Approach When Many Test Cases Fail**
     - If more than half of the test cases fail, reconsider your approach (example: lv2 - 13).
+
+
+## HackerRank level definition?
+[lv1](https://www.hackerrank.com/domains/algorithms?filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bsubdomains%5D%5B%5D=implementation&filters%5Bsubdomains%5D%5B%5D=strings&filters%5Bsubdomains%5D%5B%5D=arrays-and-sorting&filters%5Bsubdomains%5D%5B%5D=search&filters%5Bsubdomains%5D%5B%5D=graph-theory&filters%5Bsubdomains%5D%5B%5D=greedy&filters%5Bsubdomains%5D%5B%5D=dynamic-programming&filters%5Bsubdomains%5D%5B%5D=constructive-algorithms&filters%5Bsubdomains%5D%5B%5D=bit-manipulation&filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bsubdomains%5D%5B%5D=game-theory&filters%5Bsubdomains%5D%5B%5D=np-complete-problems&filters%5Bsubdomains%5D%5B%5D=algo-debugging)
+
+[lv2](https://www.hackerrank.com/domains/algorithms?filters%5Bskills%5D%5B%5D=Problem%20Solving%20%28Basic%29&filters%5Bsubdomains%5D%5B%5D=implementation&filters%5Bsubdomains%5D%5B%5D=strings&filters%5Bsubdomains%5D%5B%5D=arrays-and-sorting&filters%5Bsubdomains%5D%5B%5D=search&filters%5Bsubdomains%5D%5B%5D=graph-theory&filters%5Bsubdomains%5D%5B%5D=greedy&filters%5Bsubdomains%5D%5B%5D=dynamic-programming&filters%5Bsubdomains%5D%5B%5D=constructive-algorithms&filters%5Bsubdomains%5D%5B%5D=bit-manipulation&filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bsubdomains%5D%5B%5D=game-theory&filters%5Bsubdomains%5D%5B%5D=np-complete-problems&filters%5Bsubdomains%5D%5B%5D=algo-debugging&filters%5Bdifficulty%5D%5B%5D=medium)
+
+[lv2~3?](https://www.hackerrank.com/domains/algorithms?filters%5Bskills%5D%5B%5D=Problem%20Solving%20%28Intermediate%29&filters%5Bdifficulty%5D%5B%5D=medium)

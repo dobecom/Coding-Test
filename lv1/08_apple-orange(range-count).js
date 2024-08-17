@@ -1,5 +1,5 @@
 // https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true
-// HackerRank - [Implementation] Apple and Orange
+// HackerRank Warmup - [Implementation] Apple and Orange
 
 'use strict';
 
