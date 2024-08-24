@@ -6,11 +6,11 @@
 - [Code](https://www.naukri.com/code360)
 
 ### JavaScript Functions and Examples for Coding Tests
-1. [Pitfalls](./00_pitfalls)
+1. [Pitfalls] - /archives/js/01_pitfalls
     - **floating-point-precision.js**: Functions and examples illustrating floating point precision issues.
     - **variable-scope.js**: Examples and explanations of variable scope in JavaScript.
 
-2. [Data Structures](./01_data-structures)
+2. [Data Structures] - /archives/js/02_data-structures
     - **bfs.js**: Implementation of the Breadth-First Search (BFS) algorithm.
     - **binary-search.js**: Implementation of the Binary Search algorithm.
     - **dfs.js**: Implementation of the Depth-First Search (DFS) algorithm.
@@ -18,7 +18,7 @@
     - **min-heap.js**: Implementation of a Min-Heap data structure.
     - **queue.js**: Implementation of a Queue data structure.
 
-3. [Math Utilities](./02_math-utilities)
+3. [Math Utilities] - /archives/js/03_math-utilities
     - **permutations.js**: Function to generate all permutations of an array.
     - **prime.js**: Function to check if a number is prime.
 
