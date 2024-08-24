@@ -3,7 +3,7 @@
 ### Practice Sites
 - [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)
 - [HackerRank](https://www.hackerrank.com/domains/algorithms)
-- [Code](https://www.naukri.com/code360)
+- [Code360](https://www.naukri.com/code360)
 
 ### JavaScript Functions and Examples for Coding Tests
 1. [Pitfalls] - /archives/js/01_pitfalls
