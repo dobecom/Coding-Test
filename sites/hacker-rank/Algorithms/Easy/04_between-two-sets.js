@@ -1,6 +1,6 @@
 //www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true
 // HackerRank - [Implementation] Between Two Sets
-https: 'use strict';
+'use strict';
 
 const fs = require('fs');
 
